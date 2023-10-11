@@ -1,4 +1,4 @@
-I am an undergraduate student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. [Bo Li](https://aisecure.github.io) and Prof. [Alex Ratner](https://ajratner.github.io/).
+I am an undergraduate student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. [Bo Li](https://aisecure.github.io).
 
 **Research Interests**: My current research interests is **Trustworthy Machine Learning**. 
 
