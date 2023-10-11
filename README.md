@@ -1,93 +1,36 @@
-I am a Ph.D. student in Computer Science at University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science of University of Illinois Urbana-Champaign, where I was fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). During the past, I spent time at Microsoft Research and ByteDance AI Lab.
+I am an undergraduate student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. [Bo Li](https://aisecure.github.io) and Prof. [Alex Ratner](https://ajratner.github.io/).
 
-**Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on faithful evaluation and effort-light approaches with applications in chemistry, biology, physics, etc.. My ultimate goal is to build effective, efficient, and explainable data-centric ML systems. My past explorations lay in the intersection of machine learning, data mining, and natural language processing.
+**Research Interests**: My current research interests is **Trustworthy Machine Learning**. 
 
-## 📝 Selected Publications
-(\* denotes equal contribution)
+## Publications
 
 ### Peer-reviewed
-- [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
-<br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
-<br>*NeurIPS 2023*.
-- [Characterizing the Impacts of Semi-supervised Learning for Weak Supervision]()
-<br>Jeffrey Li, **Jieyu Zhang**, Ludwig Schmidt, Alexander Ratner.
-<br>*NeurIPS 2023*.
-- [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
-<br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
-<br>*NeurIPS 2023*.
-- [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
-<br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
-<br>*NeurIPS 2023*.
-- [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
-<br>34 authors.
+- [DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
+<br>Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
 <br>*NeurIPS 2023*.
 <br><font color=red>Oral Presentation</font>
-- [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
-<br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
-<br>*AISTATS 2023*.
-- [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
-<br>**Jieyu Zhang\***, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
-<br>*NeurIPS 2022*.
-- [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
-<br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
-<br>*ICLR 2022*.
-- [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
-<br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
-<br>*VLDB 2022*.
-- [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
-<br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
-<br>*NeurIPS 2021*.
-<br><font color=red>Oral Presentation</font>
+- [CBD: A Certified Backdoor Detector Based on Local Dominant Probability]()
+<br>Zhen Xiang, **Zidi Xiong**, Bo Li.
+<br>*NeurIPS 2023*.
+- [UMD: Unsupervised Model Detection for X2X Backdoor Attacks](https://arxiv.org/abs/2305.18651)
+<br>Zhen Xiang, **Zidi Xiong**, Bo Li.
+<br>*ICML 2023*.
+- [Rethinking the Necessity of Labels in Backdoor Removal.](https://openreview.net/forum?id=Noj1Fydegod)
+<br>**Zidi Xiong**, Dongxian Wu, Yifei Wang, Yisen Wang.
+<br>*ICLR 2023 BANDS workshop*.
 
 ### Preprints
-- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
-<br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
-<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br>[Github](https://github.com/microsoft/autogen) <font color=red>>8K star</font>
-- [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
-<br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
+- [Label-Smoothed Backdoor Attack](https://arxiv.org/abs/2202.11203)
+<br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
+
+## Education
+- University of Illinois Urbana-Champaign - B.S. in Mathematics and Computer Science 2019 - 2023 (expected). 
+
+## Industrial Experience
+- Baidu Research, CCL Lab - Research Intern
+<br> 2021.11-2022.06
+<br> Supervised by Dr. [Minlong Peng](https://v-mipeng.github.io).
 
 
-### Before Ph.D.
-- [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
-<br>**Jieyu Zhang**, Xiangchen Song, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
-<br>*AAAI 2021*.
-- [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
-<br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
-<br>*ICDM 2020*.
-<br><font color=red>Best Paper</font>
-- [Neural Embedding Propagation on Heterogeneous Networks]([https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg](https://arxiv.org/abs/1910.00005))
-<br>Carl Yang\*, **Jieyu Zhang\***, Jiawei Han.
-<br>*ICDM 2019*.
-
-
-## 🎓 Education
-- University of Washington - Ph.D. in Computer Science  2020 - 2026 (expected). 
-- University of Illinois Urbana-Champaign - B.S. in Statistics and Computer Science. 
-
-## 👨‍💻 Industrial Experience
-- Microsoft Research (Redmond) - Research Intern
-<br> 2023.06-2023.9
-<br> Supervised by Dr. [Chi Wang](https://www.microsoft.com/en-us/research/people/chiw/).
-- Microsoft Research (Asia) - Star Bridge Research Assistant
-<br> 2020.09-2021.12
-<br> Supervised by Dr. [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en).
-- ByteDance AI Lab - Research Intern
-<br> 2020.04-2020.09
-<br> Supervised by Prof. [Lei Li](https://lileicc.github.io/).
-
-## 🏅 Awards
-- Jane Street Graduate Research Fellowship Honorable Mention
-- CRA Outstanding Undergraduate Researcher Honorable Mention
-- ICDM'20 Best Paper Award
-- ICDM'19 Student Travel Award
-- UIUC James Scholar Preble Research Award
-- UIUC John R. Pasta Outstanding Undergraduate Award
-
-## 📍 Professional Services
-- Reviewer: NeurIPS, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, AISTATS, KDD, LOG.
-
-## 📫 Contact
-Email: jieyuz2@cs.washington.edu
-<br>Twitter: [@JieyuZhang20](https://twitter.com/JieyuZhang20)
+## Contact
+Email: zidix2@illinois.edu
