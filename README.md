@@ -9,6 +9,7 @@ I am an undergraduate student in Computer Science at University of Illinois Urba
 <br>Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
 <br>*NeurIPS 2023*.
 <br><font color=red>Oral Presentation</font>
+<br><font color=red>Outstanding Paper Award</font>
 - [CBD: A Certified Backdoor Detector Based on Local Dominant Probability]()
 <br>Zhen Xiang, **Zidi Xiong**, Bo Li.
 <br>*NeurIPS 2023*.
