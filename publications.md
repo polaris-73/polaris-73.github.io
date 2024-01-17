@@ -6,7 +6,7 @@
 - [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://openreview.net/forum?id=S4cYxINzjp)
 <br>Zhen Xiang, Fengqing Jiang, **Zidi Xiong**, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li
 <br>*ICLR 2024*.
-<br>*NeurIPS 2023 BUGS  workshop <font color=red>Oral Presentation</font>*.
+<br>*NeurIPS 2023 BUGS  workshop* <font color=red>Oral Presentation</font>.
 - [DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
 <br>Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
 <br>*NeurIPS 2023*.
