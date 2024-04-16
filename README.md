@@ -1,4 +1,4 @@
-I am an undergraduate student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. [Bo Li](https://aisecure.github.io).
+I am an incoming Ph.D. student in Computer Science at Harvard University, advised by Prof. [Hima Lakkaraju](https://himalakkaraju.github.io). Before that, I was an undergraduate student in Computer Science at University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Bo Li](https://aisecure.github.io).
 
 **Research Interests**: My current research interests is **Trustworthy Machine Learning**. 
 
@@ -38,4 +38,4 @@ I am an undergraduate student in Computer Science at University of Illinois Urba
 
 
 ## Contact
-Email: zidix2@illinois.edu
+Email: zidixiong@g.harvard.edu
