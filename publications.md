@@ -3,6 +3,9 @@
 <br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
 
 ### Peer-reviewed
+- [RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](https://arxiv.org/abs/2403.13031)
+<br> Zhuowen Yuan, **Zidi Xiong**, Yi Zeng, Ning Yu, Ruoxi Jia, Dawn Song, Bo Li
+<br>*ICML 2024*
 - [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://openreview.net/forum?id=S4cYxINzjp)
 <br>Zhen Xiang, Fengqing Jiang, **Zidi Xiong**, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li
 <br>*ICLR 2024*.
