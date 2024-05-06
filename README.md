@@ -5,6 +5,9 @@ I am an incoming Ph.D. student in Computer Science at Harvard University, advise
 ## Publications
 
 ### Peer-reviewed
+- [RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](https://arxiv.org/abs/2403.13031)
+<br> Zhuowen Yuan, **Zidi Xiong**, Yi Zeng, Ning Yu, Ruoxi Jia, Dawn Song, Bo Li
+<br>*ICML 2024*
 - [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://openreview.net/forum?id=S4cYxINzjp)
 <br>Zhen Xiang, Fengqing Jiang, **Zidi Xiong**, Bhaskar Ramasubramanian, Radha Poovendran, Bo Li
 <br>*ICLR 2024*.
@@ -28,8 +31,12 @@ I am an incoming Ph.D. student in Computer Science at Harvard University, advise
 - [Label-Smoothed Backdoor Attack](https://arxiv.org/abs/2202.11203)
 <br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
 
+## Awards
+- NeurIPS 2023 Outstanding Paper Award
+  
 ## Education
-- University of Illinois Urbana-Champaign - B.S. in Mathematics and Computer Science 2019 - 2023 (expected). 
+- Harvard University - Ph.D. in Computer Science 2024 - 2029 (expected)
+- University of Illinois Urbana-Champaign - B.S. in Mathematics and Computer Science 2019 - 2023. 
 
 ## Industrial Experience
 - Baidu Research, CCL Lab - Research Intern
