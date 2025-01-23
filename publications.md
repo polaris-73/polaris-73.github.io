@@ -3,6 +3,9 @@
 <br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
 
 ### Peer-reviewed
+- [MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://openreview.net/pdf?id=qIbbBSzH6n)
+<br> Chejian Xu*, Jiawei Zhang*, Zhaorun Chen*, Chulin Xie*, Mintong Kang*, Zhuowen Yuan*, **Zidi Xiong***, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Zhun Wang, Alexander Xiong, Xuandong Zhao, Yu Gai, Francesco Pinto, Yujin Potter, Zhen Xiang, Zinan Lin, Dan Hendrycks, Dawn Song, Bo Li
+<br>*ICLR 2025*
 - [RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](https://arxiv.org/abs/2403.13031)
 <br> Zhuowen Yuan, **Zidi Xiong**, Yi Zeng, Ning Yu, Ruoxi Jia, Dawn Song, Bo Li
 <br>*ICML 2024*
