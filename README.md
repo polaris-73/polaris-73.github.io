@@ -5,6 +5,9 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 ## Publications
 
 ### Peer-reviewed
+- [MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://openreview.net/pdf?id=qIbbBSzH6n)
+<br> Chejian Xu*, Jiawei Zhang*, Zhaorun Chen*, Chulin Xie*, Mintong Kang*, Zhuowen Yuan*, **Zidi Xiong***, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Zhun Wang, Alexander Xiong, Xuandong Zhao, Yu Gai, Francesco Pinto, Yujin Potter, Zhen Xiang, Zinan Lin, Dan Hendrycks, Dawn Song, Bo Li
+<br>*ICLR 2025*
 - [RigorLLM: Resilient Guardrails for Large Language Models against Undesired Content](https://arxiv.org/abs/2403.13031)
 <br> Zhuowen Yuan, **Zidi Xiong**, Yi Zeng, Ning Yu, Ruoxi Jia, Dawn Song, Bo Li
 <br>*ICML 2024*
@@ -13,7 +16,7 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 <br>*ICLR 2024*.
 <br>*NeurIPS 2023 BUGS  workshop* <font color=red>Oral Presentation</font>.
 - [DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
-<br>Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
+<br>Boxin Wang*, Weixin Chen*, Hengzhi Pei*, Chulin Xie*, Mintong Kang*, Chenhui Zhang*, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
 <br>*NeurIPS 2023*.
 <br><font color=red>Oral Presentation</font>
 <br><font color=red>Outstanding Paper Award</font>
