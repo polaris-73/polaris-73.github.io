@@ -5,6 +5,9 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 ## Publications
 
 ### Peer-reviewed
+- [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://openreview.net/forum?id=YixNDE12wm)
+<br> Zhen Xiang, Linzhi Zheng, Yanjie Li, Junyuan Hong, Qinbin Li, Han Xie, Jiawei Zhang, **Zidi Xiong**, Chulin Xie, Carl Yang, Dawn Song, Bo Li
+<br>*ICML 2025*
 - [MMDT: Decoding the Trustworthiness and Safety of Multimodal Foundation Models](https://openreview.net/pdf?id=qIbbBSzH6n)
 <br> Chejian Xu, Jiawei Zhang, Zhaorun Chen, Chulin Xie, Mintong Kang, Yujin Potter, Zhun Wang, Zhuowen Yuan, Alexander Xiong, **Zidi Xiong**, Chenhui Zhang, Lingzhi Yuan, Yi Zeng, Peiyang Xu, Chengquan Guo, Andy Zhou, Jeffrey Ziwei Tan, Xuandong Zhao, Francesco Pinto, Zhen Xiang, Yu Gai, Zinan Lin, Dan Hendrycks, Bo Li, Dawn Song.
 <br>*ICLR 2025*
@@ -31,6 +34,10 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 <br>*ICLR 2023 BANDS workshop*.
 
 ### Preprints
+- [Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models](https://arxiv.org/abs/2505.13774)
+<br> **Zidi Xiong**, Shan Chen, Zhenting Qi, Himabindu Lakkaraju
+- [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
+<br> **Zidi Xiong**, Yuping Lin, Wenya Xie, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
 - [Label-Smoothed Backdoor Attack](https://arxiv.org/abs/2202.11203)
 <br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
 
