@@ -1,12 +1,17 @@
 ### Preprints
-- [Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models](https://arxiv.org/abs/2505.13774)
-<br> **Zidi Xiong**, Shan Chen, Zhenting Qi, Himabindu Lakkaraju
 - [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
 <br> **Zidi Xiong**, Yuping Lin, Wenya Xie, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
+<br> <font color=red>Featured by [MIT Technology Review China](https://www.mittrchina.com/news/detail/15064)</font>
 - [Label-Smoothed Backdoor Attack](https://arxiv.org/abs/2202.11203)
 <br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
 
 ### Peer-reviewed
+- [Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models](https://arxiv.org/abs/2505.13774)
+<br> **Zidi Xiong**, Shan Chen, Zhenting Qi, Himabindu Lakkaraju
+<br>*NeurIPS 2025*
+- [When Models Reason in Your Language: Controlling Thinking Trace Language Comes at the Cost of Accuracy](https://arxiv.org/abs/2505.22888)
+<br> Jirui Qi, Shan Chen, **Zidi Xiong**, Raquel Fernández, Danielle S. Bitterman, Arianna Bisazza
+<br>*EMNLP 2025 Findings*
 - [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://openreview.net/forum?id=YixNDE12wm)
 <br> Zhen Xiang, Linzhi Zheng, Yanjie Li, Junyuan Hong, Qinbin Li, Han Xie, Jiawei Zhang, **Zidi Xiong**, Chulin Xie, Carl Yang, Dawn Song, Bo Li
 <br>*ICML 2025*
