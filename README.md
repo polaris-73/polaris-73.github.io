@@ -40,6 +40,8 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 <br>*ICLR 2023 BANDS workshop*.
 
 ### Preprints
+- [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](https://www.arxiv.org/abs/2602.03978)
+<br> **Zidi Xiong**, Shan Chen, Himabindu Lakkaraju
 - [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
 <br> **Zidi Xiong***, Yuping Lin*, Wenya Xie*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
 <br> Featured by [MIT Technology Review China](https://www.mittrchina.com/news/detail/15064)
