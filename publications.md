@@ -6,20 +6,20 @@
 
 ### Peer-reviewed
 - [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
-<br> **Zidi Xiong***, Yuping Lin*, Wenya Xie*, Pengfei He, Zirui Liu, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
-<br>*ACL 2026*
+<br> **Zidi Xiong**\*, Yuping Lin\*, Wenya Xie\*, Pengfei He, Zirui Liu, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
 <br> Featured by [MIT Technology Review China](https://www.mittrchina.com/news/detail/15064)
+<br>*ACL 2026*
 - [User-Assistant Bias in LLMs](https://arxiv.org/abs/2508.15815)
-<br> Xu Pan*, Jingxuan Fan*, **Zidi Xiong**, Ely Hahami, Jorin Overwiening, Ziqian Xie
+<br> Xu Pan\*, Jingxuan Fan\*, **Zidi Xiong**, Ely Hahami, Jorin Overwiening, Ziqian Xie
 <br>*ACL 2026 Findings*
 - [Budget Alignment: Making Models Reason in the User's Language](https://iclr-blogposts.github.io/2026/blog/2026/budget-alignment/)
-<br> Shan Chen*, Jirui Qi*, **Zidi Xiong**, Timothy A. Miller, Arianna Bisazza, Raquel Fernández, Danielle Bitterman
+<br> Shan Chen\*, Jirui Qi\*, **Zidi Xiong**, Timothy A. Miller, Arianna Bisazza, Raquel Fernández, Danielle Bitterman
 <br>*ICLR 2026 Blogposts*
 - [Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models](https://arxiv.org/abs/2505.13774)
 <br> **Zidi Xiong**, Shan Chen, Zhenting Qi, Himabindu Lakkaraju
 <br>*NeurIPS 2025*
 - [When Models Reason in Your Language: Controlling Thinking Trace Language Comes at the Cost of Accuracy](https://arxiv.org/abs/2505.22888)
-<br> Jirui Qi*, Shan Chen*, **Zidi Xiong**, Raquel Fernández, Danielle S. Bitterman, Arianna Bisazza
+<br> Jirui Qi\*, Shan Chen\*, **Zidi Xiong**, Raquel Fernández, Danielle S. Bitterman, Arianna Bisazza
 <br>*EMNLP 2025 Findings*
 - [GuardAgent: Safeguard LLM Agent by a Guard Agent via Knowledge-Enabled Reasoning](https://openreview.net/forum?id=YixNDE12wm)
 <br> Zhen Xiang, Linzhi Zheng, Yanjie Li, Junyuan Hong, Qinbin Li, Han Xie, Jiawei Zhang, **Zidi Xiong**, Chulin Xie, Carl Yang, Dawn Song, Bo Li
@@ -35,7 +35,7 @@
 <br>*ICLR 2024*.
 <br>*NeurIPS 2023 BUGS  workshop* <font color=red>Oral Presentation</font>.
 - [DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs//2306.11698)
-<br>Boxin Wang, Weixin Chen, Hengzhi Pei, Chulin Xie, Mintong Kang, Chenhui Zhang, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
+<br>Boxin Wang\*, Weixin Chen\*, Hengzhi Pei\*, Chulin Xie\*, Mintong Kang\*, Chenhui Zhang\*, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
 <br>*NeurIPS 2023*.
 <br><font color=red>Oral Presentation</font>
 <br><font color=red>Outstanding Paper Award</font>
