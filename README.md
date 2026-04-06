@@ -5,6 +5,16 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 ## Publications
 
 ### Peer-reviewed
+- [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
+<br> **Zidi Xiong***, Yuping Lin*, Wenya Xie*, Pengfei He, Zirui Liu, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
+<br>*ACL 2026*
+<br> Featured by [MIT Technology Review China](https://www.mittrchina.com/news/detail/15064)
+- [User-Assistant Bias in LLMs](https://arxiv.org/abs/2508.15815)
+<br> Xu Pan*, Jingxuan Fan*, **Zidi Xiong**, Ely Hahami, Jorin Overwiening, Ziqian Xie
+<br>*ACL 2026 Findings*
+- [Budget Alignment: Making Models Reason in the User's Language](https://iclr-blogposts.github.io/2026/blog/2026/budget-alignment/)
+<br> Shan Chen*, Jirui Qi*, **Zidi Xiong**, Timothy A. Miller, Arianna Bisazza, Raquel Fernández, Danielle Bitterman
+<br>*ICLR 2026 Blogposts*
 - [Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models](https://arxiv.org/abs/2505.13774)
 <br> **Zidi Xiong**, Shan Chen, Zhenting Qi, Himabindu Lakkaraju
 <br>*NeurIPS 2025*
@@ -42,9 +52,6 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 ### Preprints
 - [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](https://www.arxiv.org/abs/2602.03978)
 <br> **Zidi Xiong**, Shan Chen, Himabindu Lakkaraju
-- [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
-<br> **Zidi Xiong***, Yuping Lin*, Wenya Xie*, Pengfei He, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
-<br> Featured by [MIT Technology Review China](https://www.mittrchina.com/news/detail/15064)
 - [Label-Smoothed Backdoor Attack](https://arxiv.org/abs/2202.11203)
 <br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
 
@@ -56,9 +63,12 @@ I am a Ph.D. student in Computer Science at Harvard University, advised by Prof.
 - University of Illinois Urbana-Champaign - B.S. in Mathematics and Computer Science 2019 - 2023. 
 
 ## Industrial Experience
+- Anuttacon - Research Intern
+<br> 2026.01-2026.03
+- Microsoft, Azure Responsible AI - Research Intern
+<br> 2024.03-2024.06
 - Baidu Research, CCL Lab - Research Intern
 <br> 2021.11-2022.06
-<br> Supervised by Dr. [Minlong Peng](https://v-mipeng.github.io).
 
 
 ## Contact
