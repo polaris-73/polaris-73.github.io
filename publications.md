@@ -1,10 +1,11 @@
 ### Preprints
-- [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](https://www.arxiv.org/abs/2602.03978)
-<br> **Zidi Xiong**, Shan Chen, Himabindu Lakkaraju
 - [Label-Smoothed Backdoor Attack](https://arxiv.org/abs/2202.11203)
 <br>Minlong Peng, **Zidi Xiong**, Mingming Sun, Ping Li.
 
 ### Peer-reviewed
+- [Monitorability as a Free Gift: How RLVR Spontaneously Aligns Reasoning](https://www.arxiv.org/abs/2602.03978)
+<br> **Zidi Xiong**, Shan Chen, Himabindu Lakkaraju
+<br> *ICML 2026*
 - [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
 <br> **Zidi Xiong**\*, Yuping Lin\*, Wenya Xie\*, Pengfei He, Zirui Liu, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
 <br> Featured by [MIT Technology Review China](https://www.mittrchina.com/news/detail/15064)
