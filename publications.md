@@ -16,7 +16,7 @@
 - [DECODINGTRUST: A Comprehensive Assessment of Trustworthiness in GPT Models](https://arxiv.org/abs/2306.11698)
 <br>Boxin Wang\*, Weixin Chen\*, Hengzhi Pei\*, Chulin Xie\*, Mintong Kang\*, Chenhui Zhang\*, Chejian Xu, **Zidi Xiong**, Ritik Dutta, Rylan Schaeffer, Sang T. Truong, Simran Arora, Mantas Mazeika, Dan Hendrycks, Zinan Lin, Yu Cheng, Sanmi Koyejo, Dawn Song, Bo Li.
 <br>*NeurIPS 2023*.
-<br><span style="color:red">Oral Presentation</span>  
-<br><span style="color:red">Outstanding Paper Award</span>
+<br><font color=red>Oral Presentation</font>
+<br><font color=red>Outstanding Paper Award</font>
 
 For full publications, please see my [Google Scholar](https://scholar.google.com/citations?user=XL6QafwAAAAJ&hl=en).
