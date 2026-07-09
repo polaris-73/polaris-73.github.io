@@ -11,6 +11,7 @@ I am a Ph.D. candidate in Computer Science at Harvard University, advised by Pro
 - [How Memory Management Impacts LLM Agents: An Empirical Study of Experience-Following Behavior](https://arxiv.org/abs/2505.16067)
 <br> **Zidi Xiong**\*, Yuping Lin\*, Wenya Xie\*, Pengfei He, Zirui Liu, Jiliang Tang, Himabindu Lakkaraju, Zhen Xiang
 <br>*ACL 2026*
+<br><font color=red>Oral Presentation</font>
 <br><span style="color:red">Featured by <a href="https://www.mittrchina.com/news/detail/15064">MIT Technology Review China</a></span>
 - [Measuring the Faithfulness of Thinking Drafts in Large Reasoning Models](https://arxiv.org/abs/2505.13774)
 <br> **Zidi Xiong**, Shan Chen, Zhenting Qi, Himabindu Lakkaraju
